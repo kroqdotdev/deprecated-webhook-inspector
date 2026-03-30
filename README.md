@@ -1,3 +1,12 @@
+# DEPRECATED
+This tool has been remodeled into webhooks.cc
+
+[webhooks.cc](https://webhooks.cc/go)
+
+[view repo here](https://github.com/kroqdotdev/webhooks-cc)
+
+
+
 # Webhook Tester
 
 Create webhook endpoints, receive requests, and inspect them in real-time.
